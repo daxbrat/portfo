@@ -71,7 +71,7 @@ pyzmail36==1.0.4
 reportlab==3.5.13
 requests==2.24.0
 rpl==1.5.6
-rsa==4.6
+rsa==4.7
 selenium==3.141.0
 Send2Trash==1.5.0
 six==1.15.0
