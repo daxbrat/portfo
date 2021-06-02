@@ -84,6 +84,6 @@ twilio==6.42.0
 ufw==0.36
 unattended-upgrades==0.1
 uritemplate==3.0.1
-urllib3==1.24.2
+urllib3==1.26.5
 virtualenv==20.0.25
 zipp==3.1.0
