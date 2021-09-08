@@ -36,7 +36,7 @@ openpyxl==2.6.1
 packaging==20.4
 pdfarranger==1.1.1
 pexpect==4.6.0
-Pillow==7.1.2
+Pillow==8.3.2
 pluggy==0.13.1
 pre-commit==2.5.1
 protobuf==3.12.2
